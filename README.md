@@ -1,4 +1,7 @@
 # Projeto-final-de-banco-de-dados
+
 Projeto final de banco de dados do Senai-PR
 
-todos os dados nesse projeto são fictícios
+O projeto é um banco de dados de uma academia
+
+Todos os dados nesse projeto são fictícios
